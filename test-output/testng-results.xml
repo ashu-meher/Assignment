@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79267" started-at="2018-10-23T12:16:16Z" finished-at="2018-10-23T12:17:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79267" started-at="2018-10-23T12:16:16Z" finished-at="2018-10-23T12:17:35Z">
+      <class name="assignment2.BankList">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:assignment2.BankList@26a7b76d]" name="LaunchBrowser" is-config="true" duration-ms="28049" started-at="2018-10-23T12:16:16Z" finished-at="2018-10-23T12:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="bankListCode()[pri:0, instance:assignment2.BankList@26a7b76d]" name="bankListCode" duration-ms="50971" started-at="2018-10-23T12:16:44Z" finished-at="2018-10-23T12:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankListCode -->
+      </class> <!-- assignment2.BankList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
